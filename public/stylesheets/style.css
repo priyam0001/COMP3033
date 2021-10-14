@@ -1,0 +1,13 @@
+body {
+  padding: 50px;
+  font: 84px "Lucida Grande", Helvetica, Arial, sans-serif;
+  background-image: url("download.jfif");
+  background-repeat: no-repeat;
+  background-position: right top;
+  color: #21ce2f;
+}
+
+a {
+  color: #21ce2f;
+}
+
